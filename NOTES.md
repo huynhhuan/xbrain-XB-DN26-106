@@ -1,5 +1,3 @@
-<img width="2973" height="1581" alt="image" src="https://github.com/user-attachments/assets/a03ab0d2-7529-4e02-9eb6-103962f03a1e" /># Deployment Notes
-
 ## Strategy
 **Manual Deployment via AWS Console (Zip upload)**
 - Wrapper: `serverless-http`
