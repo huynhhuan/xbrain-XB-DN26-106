@@ -1,4 +1,4 @@
-# Deployment Notes
+<img width="2973" height="1581" alt="image" src="https://github.com/user-attachments/assets/a03ab0d2-7529-4e02-9eb6-103962f03a1e" /># Deployment Notes
 
 ## Strategy
 **Manual Deployment via AWS Console (Zip upload)**
@@ -16,3 +16,4 @@
     1. Upload lại file .zip để kích hoạt Cold Start.
     2. Gọi API ngay lập tức.
     3. Vào CloudWatch Logs, tìm dòng `REPORT` có chứa giá trị `Init Duration`.
+<img width="2973" height="1581" alt="image" src="https://github.com/user-attachments/assets/b745ef1d-08c1-4c4f-84d6-9ccbd2cfca6e" />
